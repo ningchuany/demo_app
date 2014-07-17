@@ -18,3 +18,6 @@ doc/
 .DS_Store
 .idea
 .secret
+
+DEMO_APP::Application.config.secret_token = d2d779e330c07f9b37a0507564dc2725358441d009eba092996be31cf76c402ffd967372c34abc46a903493508d0896cc2963bf053180b2a6b06186cadff3e29
+
